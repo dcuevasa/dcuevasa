@@ -45,3 +45,39 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
+
+
+## Projects and Repositories
+
+- **[RoboCup@Home](https://github.com/SinfonIAUniandes/task_utilities)**  
+  *Category:* Robotics🤖 | *Tags:* ROS, Python, Robotics  
+  Development of systems for international service robotics competition  
+
+- **[Pepper NLP](https://github.com/SinfonIAUniandes/speech_utilities)**  
+  *Category:* AI🧠 | *Tags:* NLP, Python, AI  
+  Natural language processing system for Pepper robot  
+
+- **[Pepper Speech-to-Text](https://github.com/SinfonIAUniandes/speech_utilities)**  
+  *Category:* AI🧠 | *Tags:* Speech Recognition, Real-time, Python  
+  Real-time speech recognition system  
+
+- **[Pepper Controller](https://github.com/SinfonIAUniandes/web-remote-controller)**  
+  *Category:* Robotics🤖  | *Tags:* React, ROS, WebSockets  
+  Remote control system for Pepper robot movements  
+
+- **[SustainU](https://github.com/ISIS3510-Team14/Flutter)**  
+  *Category:* Mobile📱 | *Tags:* Flutter, AI, Mobile  
+  Mobile application for recycling with Artificial Intelligence  
+
+- **[FreeBird](https://github.com/dcuevasa/FreeBird-Front)**  
+  *Category:* Web🌐  | *Tags:* React, Node.js, Full Stack  
+  Web platform for trip planning  
+
+- **[P3DX Navigation](https://github.com/dcuevasa/P3DX-Navigation)**  
+  *Category:* Robotics🤖 | *Tags:* ROS, Python, Robotics  
+  Autonomous navigation system for P3DX robot  
+
+- **[Service Finder](https://github.com/dcuevasa/serviceFinder)**  
+  *Category:* AI🧠 | *Tags:* Full Stack, Python, AI  
+  Web application to find services in your area using Bard API  
+
