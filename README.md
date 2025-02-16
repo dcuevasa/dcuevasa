@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=dcuevasa.dcuevasa&"  />
-</div>
-
 ###
 
 <h1 align="center">Hi! I am David</h1>
@@ -31,6 +27,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
 </div>
+
+<br/>
+
+ This my [CV](https://github.com/dcuevasa/dcuevasa/blob/main/Curriculum%20Vitae.pdf)!
 
 ###
 
