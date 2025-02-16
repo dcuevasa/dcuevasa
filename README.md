@@ -8,7 +8,10 @@
 
 ###
 
-<p align="left">I'm a Systems and Computing Engineering student at Universidad de los Andes. Passionate about social robotics and artificial intelligence.<br><br>- 🔭 I’m currently working on Robotics<br>- 📚 I'm currently learning AI for Autonomous Agents!<br>- ⚡ In my free time I think about Robots!</p>
+<p align="left">I'm a Systems and Computing Engineering student at Universidad de los Andes. Passionate about social robotics and artificial intelligence. 
+  
+  Currently the leader of [SinfonIA Uniandes](https://sinfoniauniandes.github.io/SinfonIA-web/home) a social robotics student initiative from Universidad de los Andes
+  <br><br>- 🔭 I’m currently working on Robotics<br>- 📚 I'm currently learning AI for Autonomous Agents!<br>- ⚡ In my free time I think about Robots!</p>
 
 ###
 
